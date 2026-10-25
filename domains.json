@@ -1,8 +1,8 @@
 {
   "appId": 6,
   "domains": [
-    "https://dp2l1bztx8f43.cloudfront.net"
+    "https://panel.gem-panel.com"
   ],
   "healthPath": "/api/v1/health",
-  "updatedAt": "2026-10-25T06:12:47.351Z"
+  "updatedAt": "2026-10-25T06:25:55.887Z"
 }
